@@ -1,7 +1,5 @@
-#include <iostream>
-#include <chrono>
-#include <array>
 #include "swap.h"
+#include "bubble.h"
 
 void bubbleSort(int *arr) {
 	size_t size = sizeof(arr) / sizeof(arr[0]);
