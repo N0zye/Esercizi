@@ -2,6 +2,7 @@
 #include <vector>
 #include <algorithm> // std::lower_bound
 #include <functional> // std::function
+#include <string>
 
 using namespace std;
 
